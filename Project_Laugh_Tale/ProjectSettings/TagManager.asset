@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI
+  - Power
+  - Weapon
+  - Ring
+  - P_Attack
+  - Map
+  - Player_HitBox
+  - FSM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Map
+  - Power
+  - Weapon
+  - Ring
+  - P_Attack
+  - FSM
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1596670615
+    locked: 0
+  - name: Power
+    uniqueID: 86282367
+    locked: 0
+  - name: Weapon
+    uniqueID: 3092395539
+    locked: 0
+  - name: Player
+    uniqueID: 4073363435
+    locked: 0
+  - name: P_Attack
+    uniqueID: 2010889399
+    locked: 0
+  - name: Ring
+    uniqueID: 1438667627
+    locked: 0
+  - name: UI
+    uniqueID: 2691036701
+    locked: 0
