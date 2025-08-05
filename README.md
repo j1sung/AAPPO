@@ -7,7 +7,7 @@ _Evaluating the Impact of Opponent Types on Player Experience: A Comparative Stu
 ## 📌 프로젝트 정보
 
 - 🏷️ 제출 학회: HCI KOREA 2025  
-- 📄 논문 보기: [DBpia 바로가기](https://www-dbpia-co-kr.libproxy.dankook.ac.kr/journal/articleDetail?nodeId=NODE12131720)  
+- 📄 논문 보기: [DBpia 바로가기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131720)  
 - 🗓️ 프로젝트 기간: 2024.10~2024.12
 
 
